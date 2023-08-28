@@ -1,3 +1,3 @@
 # TCR-machine-learning-project
 Hii Everyone,
-I am going to build a machine learning model which is able to predict the attrition rate in an organization.
+I have built a machine learning model, that is able to predict the attrition rate in an organization.
